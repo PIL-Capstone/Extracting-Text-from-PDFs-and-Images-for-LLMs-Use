@@ -1,8 +1,5 @@
 
-**Certainly! Below is a sample README file for the provided code snippets:**
-
-
-*Text Extraction from PDFs and Images*
+**Text Extraction from PDFs and Images**
 This repository contains Python code snippets demonstrating how to extract text from PDF documents and images using various libraries and APIs.
 
 *Libraries and APIs Used:*
